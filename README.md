@@ -34,7 +34,7 @@
 
 
 <b><p>QR код на этот же профиль :р</b></p>
-(![qr-code](https://user-images.githubusercontent.com/63306343/187027557-0e482288-1ab4-458b-9cbc-17059fefa034.gif)
+![qr-code](https://user-images.githubusercontent.com/63306343/187027557-0e482288-1ab4-458b-9cbc-17059fefa034.gif)
 
 <!--
 **i-sergh/i-sergh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
