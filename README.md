@@ -32,6 +32,8 @@
 
 <b> <p> 📫 seripp28@gmail.com</p></b>
 
+
+<b><p>QR код на этот же профиль :р</b></p>
 (![qr-code](https://user-images.githubusercontent.com/63306343/187027557-0e482288-1ab4-458b-9cbc-17059fefa034.gif)
 
 <!--
