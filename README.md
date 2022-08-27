@@ -30,8 +30,9 @@
 <b><a href= https://wa.me/qr/QGXH5YUT63ERF1> Сергей (надеется, что заработает ссылка ) в whatsApp </a> <p></b>
 <b><a href= https://twitter.com/SerghjyStrange> Сергей ( ноет ) в twitter</a> <p></b>
 
-<b> <p> 📫 seripp28@gmail.com<</p></b>
+<b> <p> 📫 seripp28@gmail.com</p></b>
 
+(![qr-code](https://user-images.githubusercontent.com/63306343/187027557-0e482288-1ab4-458b-9cbc-17059fefa034.gif)
 
 <!--
 **i-sergh/i-sergh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
