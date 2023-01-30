@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name is Sergei 🐱‍👤
+### I'm Sergei 🐱‍👤
 
 
 
