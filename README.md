@@ -9,8 +9,6 @@
 <!--(https://github.com/anuraghazra/github-readme-stats) -->
 
 
-<img src="https://user-images.githubusercontent.com/63306343/187914290-76b33c51-a338-430a-ba9a-b53ce64b078b.jpg" width="550" height="400" alt="there must be a meme about planes">
-
 
 
 
