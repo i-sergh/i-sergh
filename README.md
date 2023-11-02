@@ -19,7 +19,6 @@
 
 <b><a href= https://vk.com/serghjo> Сергей в vk</a> <p></b>
 <b><a href= https://t.me/SergIppolitov> Сергей в telegram</a> <p></b>
-<b><a href= https://wa.me/qr/QGXH5YUT63ERF1> Сергей (надеется, что заработает ссылка ) в whatsApp </a> <p></b>
 <b><a href= https://twitter.com/SerghjyStrange> Сергей ( ноет ) в twitter</a> <p></b>
 
 <b> <p> 📫 seripp28@gmail.com</p></b>
